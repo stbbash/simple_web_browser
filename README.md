@@ -1,1 +1,2 @@
 # simple_web_browser
+This project delves into the inner workings of web browsers using Python and various Python libraries. It demystifies the process of establishing a web connection, illustrating the simplicity behind it without the complexities found in modern-day browsers. Gain insights into the fundamental mechanics of web communication, making it accessible and comprehensible for learners and enthusiasts alike.
